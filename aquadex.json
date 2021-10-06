@@ -1,0 +1,33 @@
+{
+  "pokemon": [{
+    "id": 1,
+    "num": "001",
+    "name": "Oscar",
+    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "type": [
+      "Poison"
+    ],
+    "height": "0.71 m",
+    "weight": "6.9 kg",
+    "profondeur": "0 - 3m",
+    "duree_vie": "2 km",
+    "description": "blabla"
+  },
+    {
+
+        "id": 2,
+        "num": "002",
+        "name": "Oscar",
+        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+        "type": [
+          "Poison"
+        ],
+        "height": "0.78 m",
+        "weight": "65.9 kg",
+        "profondeur": " 0 - 50m",
+        "duree_vie": "2 km",
+        "description": "blublu"
+
+        }]
+      }
+
