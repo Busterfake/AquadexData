@@ -1,33 +1,153 @@
 {
   "pokemon": [{
     "id": 1,
-    "num": "001",
-    "name": "Oscar",
-    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-    "type": [
-      "Poison"
-    ],
-    "height": "0.71 m",
-    "weight": "6.9 kg",
-    "profondeur": "0 - 3m",
-    "duree_vie": "2 km",
-    "description": "blabla"
-  },
-    {
-
-        "id": 2,
-        "num": "002",
-        "name": "Oscar",
-        "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-        "type": [
-          "Poison"
-        ],
-        "height": "0.78 m",
-        "weight": "65.9 kg",
-        "profondeur": " 0 - 50m",
-        "duree_vie": "2 km",
-        "description": "blublu"
-
-        }]
-      }
-
+    "nom": "Castagnole",
+    "nomLatin": "castagnolus bleutus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/456.png",
+    "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/001.png",
+    "typeAnimal": "poisson",
+    "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 2,
+    "nom": "Poisson cocher",
+    "nomLatin": "poisson cocherus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/147.png",
+    "description": "C'est un petit poisson trop mims, rayures noires avec une antenne.",
+    "taille": "30 cm",
+    "poids": "200 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/002.png",
+    "typeAnimal": "poisson",
+    "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "5 ans"
+  }, {
+    "id": 3,
+    "nom": "Requin gris",
+    "nomLatin": "Carcarhinus Grisus Aqualitus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/134.png",
+    "description": "Mi-requin mi-écureuil, ce requin est capable d'assommer une proie en un coup avec sa queue d'écureuil.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/003.png",
+    "typeAnimal": "poisson",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 4,
+    "nom": "Tortue verte",
+    "nomLatin": "verus tortuga",
+    "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
+    "description": "C'est une petite tortue trop mims, bleu électrique quand il est enfant.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/007.png",
+    "typeAnimal": "tortue",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 5,
+    "nom": "Poisson clown",
+    "nomLatin": "clownus poissonus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant 2.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "typeAnimal": "poisson",
+       "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 6,
+    "nom": "Tourteau",
+    "nomLatin": "Crabus tourtus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/099.png",
+    "description": "Ce crabe est géant, on le consomme généralement lors des fêtes de fin d'années.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "typeAnimal": "poisson",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 7,
+    "nom": "Carpe Magi",
+    "nomLatin": "Carpus Magicarpius",
+    "img": "https://www.serebii.net/pokemongo/pokemon/129.png",
+    "description": "Considéré comme le pigeon de la mer, certains d'entre eux deviennent pourtant rois de la mer.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "typeAnimal": "poisson",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 8,
+    "nom": "Hippocampe des glaces",
+    "nomLatin": "Hypocapus articus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/116.png",
+    "description": "Capable de prendre la couleur de son environnement, cet hyppocampe est le roi du camouflage. ",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "typeAnimal": "poisson",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 9,
+    "nom": "Otarie blanche",
+    "nomLatin": "Otarius Neigeus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/087.png",
+    "description": "Son pelage rappelle la neige. Derrière ses airs inoffensifs se cache un vrai tueur de poissons. ",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/061.png",
+    "typeAnimal": "poisson",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 10,
+    "nom": "Chrysaora pérou",
+    "nomLatin": "medusas chrysaora",
+    "img": "https://www.serebii.net/pokemongo/pokemon/073.png",
+    "description": "Méduse ombrelle rayée, qui s'y frotte s'y pique.",
+    "taille": "1 m",
+    "poids": "700 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/073.png",
+    "typeAnimal": "meduse",
+        "nomBassin": [
+      "Mer méditerranée"
+      ],
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "1 an"
+  }]
+}
