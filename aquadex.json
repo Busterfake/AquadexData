@@ -2,6 +2,7 @@
   "pokemon": [{
     "id": 1,
     "nom": "Castagnole",
+    "num": "001",
     "nomLatin": "castagnolus bleutus",
     "img": "https://www.serebii.net/pokemongo/pokemon/456.png",
     "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant.",
@@ -17,6 +18,7 @@
   }, {
     "id": 2,
     "nom": "Poisson cocher",
+    "num": "003",
     "nomLatin": "poisson cocherus",
     "img": "https://www.serebii.net/pokemongo/pokemon/147.png",
     "description": "C'est un petit poisson trop mims, rayures noires avec une antenne.",
@@ -32,6 +34,7 @@
   }, {
     "id": 3,
     "nom": "Requin gris",
+    "num": "004",
     "nomLatin": "Carcarhinus Grisus Aqualitus",
     "img": "https://www.serebii.net/pokemongo/pokemon/134.png",
     "description": "Mi-requin mi-écureuil, ce requin est capable d'assommer une proie en un coup avec sa queue d'écureuil.",
@@ -47,6 +50,7 @@
   }, {
     "id": 4,
     "nom": "Tortue verte",
+    "num": "005",
     "nomLatin": "verus tortuga",
     "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
     "description": "C'est une petite tortue trop mims, bleu électrique quand il est enfant.",
@@ -62,6 +66,7 @@
   }, {
     "id": 5,
     "nom": "Poisson clown",
+    "num": "006",
     "nomLatin": "clownus poissonus",
     "img": "https://www.serebii.net/pokemongo/pokemon/061.png",
     "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant 2.",
@@ -77,6 +82,7 @@
   }, {
     "id": 6,
     "nom": "Tourteau",
+    "num": "007",
     "nomLatin": "Crabus tourtus",
     "img": "https://www.serebii.net/pokemongo/pokemon/099.png",
     "description": "Ce crabe est géant, on le consomme généralement lors des fêtes de fin d'années.",
@@ -92,6 +98,7 @@
   }, {
     "id": 7,
     "nom": "Carpe Magi",
+    "num": "008",
     "nomLatin": "Carpus Magicarpius",
     "img": "https://www.serebii.net/pokemongo/pokemon/129.png",
     "description": "Considéré comme le pigeon de la mer, certains d'entre eux deviennent pourtant rois de la mer.",
@@ -107,6 +114,7 @@
   }, {
     "id": 8,
     "nom": "Hippocampe des glaces",
+    "num": "009",
     "nomLatin": "Hypocapus articus",
     "img": "https://www.serebii.net/pokemongo/pokemon/116.png",
     "description": "Capable de prendre la couleur de son environnement, cet hyppocampe est le roi du camouflage. ",
@@ -122,6 +130,7 @@
   }, {
     "id": 9,
     "nom": "Otarie blanche",
+    "num": "010",
     "nomLatin": "Otarius Neigeus",
     "img": "https://www.serebii.net/pokemongo/pokemon/087.png",
     "description": "Son pelage rappelle la neige. Derrière ses airs inoffensifs se cache un vrai tueur de poissons. ",
@@ -137,6 +146,7 @@
   }, {
     "id": 10,
     "nom": "Chrysaora pérou",
+    "num": "011",
     "nomLatin": "medusas chrysaora",
     "img": "https://www.serebii.net/pokemongo/pokemon/073.png",
     "description": "Méduse ombrelle rayée, qui s'y frotte s'y pique.",
