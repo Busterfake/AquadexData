@@ -27,7 +27,7 @@
     "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/002.png",
     "typeAnimal": "poisson",
     "nomBassin": [
-      "Mer méditerranée"
+      "Océan Pacifique"
       ],
     "profondeur": "< 20 m",
     "esperanceDeVie": "5 ans"
@@ -43,7 +43,7 @@
     "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/003.png",
     "typeAnimal": "poisson",
         "nomBassin": [
-      "Mer méditerranée"
+      "Océanopolis"
       ],
     "profondeur": "< 20 m",
     "esperanceDeVie": "3 ans"
@@ -59,7 +59,7 @@
     "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/007.png",
     "typeAnimal": "tortue",
         "nomBassin": [
-      "Mer méditerranée"
+      "Océan Atlantique"
       ],
     "profondeur": "< 20 m",
     "esperanceDeVie": "3 ans"
